@@ -1,0 +1,15 @@
+requests==2.16.5
+telegram
+python-telegram-bot
+cycler==0.10.0
+jieba==0.39
+matplotlib==3.2.1
+numpy==1.18.3
+Pillow==7.1.1
+pyparsing==2.2.0
+python-dateutil==2.6.1
+pytz==2018.3
+six==1.11.0
+wordcloud==1.6.0
+wordcloud-fa==0.1.6
+jdatetime
