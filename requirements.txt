@@ -1,4 +1,4 @@
-requests==2.16.5
+requests==2.31.0
 telegram
 python-telegram-bot
 cycler==0.10.0
